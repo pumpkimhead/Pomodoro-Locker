@@ -1,10 +1,11 @@
+# Pomodoro-Locker
+Atividade Hands on Work III da graduação
+
 Link para acesso do circuito feito com Arduino no TinkerCAD
 
 https://www.tinkercad.com/things/hPaCRLK0xNh-pomodoro-locker?sharecode=LBnmIUJAvGu6DL8EEKclNZJScEyA1Rw5t4EPKnq_Gog
 
 ---
-# Pomodoro-Locker
-Atividade Hands on Work III da graduação
 
 Este projeto implementa um temporizador Pomodoro utilizando um Arduino, display LCD, micro servo, LEDs, botões e um buzzer. O sistema orienta o usuário por ciclos de foco e descanso, incluindo alertas sonoros e visuais, além de movimentação mecânica com o servo.
 
